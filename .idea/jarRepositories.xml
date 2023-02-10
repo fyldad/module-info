@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="maven-releases" />
+      <option name="name" value="Nexus repo" />
+      <option name="url" value="http://10.53.53.106:8083/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rostelecom-releases" />
+      <option name="name" value="Nexus repo" />
+      <option name="url" value="http://10.53.53.106:8083/repository/rostelecom-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Central" />
+      <option name="name" value="Central" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="billing-snapshots" />
+      <option name="name" value="Billing Snapshots" />
+      <option name="url" value="http://10.53.53.106:8083/repository/billing-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tricolor-releases" />
+      <option name="name" value="Tricolor Releases" />
+      <option name="url" value="http://10.53.53.106:8083/repository/tricolor-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="billing-releases" />
+      <option name="name" value="Billing Releases" />
+      <option name="url" value="http://10.53.53.106:8083/repository/billing-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="tricolor-snapshots" />
+      <option name="name" value="Tricolor snapshots" />
+      <option name="url" value="http://10.53.53.106:8083/repository/tricolor-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rostelecom-snapshots" />
+      <option name="name" value="Nexus repo" />
+      <option name="url" value="http://10.53.53.106:8083/repository/rostelecom-snapshots/" />
+    </remote-repository>
+  </component>
+</project>

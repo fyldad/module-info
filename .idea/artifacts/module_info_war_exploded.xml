@@ -1,0 +1,73 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="module-info:war exploded">
+    <output-path>$PROJECT_DIR$/target/module-info-0.0.1-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>module-info</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="module-info" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter:3.0.2" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:3.0.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:6.0.4" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:3.0.2" />
+          <element id="library" level="project" name="Maven: jakarta.annotation:jakarta.annotation-api:2.1.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:6.0.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:6.0.4" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.33" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-web:3.0.2" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-json:3.0.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.14.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.14.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.14.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:6.0.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:6.0.4" />
+          <element id="library" level="project" name="Maven: io.micrometer:micrometer-observation:1.10.3" />
+          <element id="library" level="project" name="Maven: io.micrometer:micrometer-commons:1.10.3" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:6.0.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:6.0.4" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:6.0.4" />
+          <element id="library" level="project" name="Maven: org.wildfly.core:wildfly-cli:10.0.3.Final" />
+          <element id="library" level="project" name="Maven: org.aesh:readline:2.0" />
+          <element id="library" level="project" name="Maven: org.fusesource.jansi:jansi:1.18" />
+          <element id="library" level="project" name="Maven: org.aesh:aesh:2.4" />
+          <element id="library" level="project" name="Maven: org.aesh:aesh-extensions:1.8" />
+          <element id="library" level="project" name="Maven: org.jboss:staxmapper:1.3.0.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.modules:jboss-modules:1.9.1.Final" />
+          <element id="library" level="project" name="Maven: org.wildfly.common:wildfly-common:1.5.1.Final" />
+          <element id="library" level="project" name="Maven: org.wildfly.core:wildfly-controller-client:10.0.3.Final" />
+          <element id="library" level="project" name="Maven: org.wildfly.core:wildfly-protocol:10.0.3.Final" />
+          <element id="library" level="project" name="Maven: org.jboss:jboss-dmr:1.5.0.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.threads:jboss-threads:2.3.3.Final" />
+          <element id="library" level="project" name="Maven: org.wildfly.core:wildfly-embedded:10.0.3.Final" />
+          <element id="library" level="project" name="Maven: org.wildfly.security:wildfly-elytron:1.10.4.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.5.0.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.logmanager:jboss-logmanager:2.1.14.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.remoting:jboss-remoting:5.0.15.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.xnio:xnio-api:3.7.2.Final" />
+          <element id="library" level="project" name="Maven: org.wildfly.client:wildfly-client-config:1.0.0.CR2" />
+          <element id="library" level="project" name="Maven: org.jboss.remotingjmx:remoting-jmx:3.0.3.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.marshalling:jboss-marshalling:2.0.0.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.marshalling:jboss-marshalling-river:2.0.0.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.xnio:xnio-nio:3.5.1.Final" />
+          <element id="library" level="project" name="Maven: org.jboss:jboss-vfs:3.2.14.Final" />
+          <element id="library" level="project" name="Maven: org.jboss.stdio:jboss-stdio:1.1.0.Final" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/module-info-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="module-info/web/Web" />
+    </root>
+  </artifact>
+</component>

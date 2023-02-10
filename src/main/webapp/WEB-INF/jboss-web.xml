@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>/module-info</context-root>
+</jboss-web>
