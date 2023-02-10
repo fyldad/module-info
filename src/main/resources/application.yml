@@ -1,0 +1,4 @@
+module:
+  info:
+    url: http://localhost:8081
+    method: /module-info
